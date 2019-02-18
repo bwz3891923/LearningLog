@@ -1,0 +1,6 @@
+from m9.1 import *
+
+coco=Restaurant('COCO','chaofan','pizza','ice cream')
+print(coco.names)
+coco.open_restaurant()
+coco.show_cuisine()

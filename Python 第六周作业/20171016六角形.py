@@ -1,0 +1,18 @@
+from turtle import *
+
+seth(30)
+fd(100)
+rt(120)
+fd(150)
+rt(120)
+fd(150)
+rt(120)
+fd(50)
+seth(-90)
+fd(100)
+lt(120)
+fd(150)
+lt(120)
+fd(150)
+lt(120)
+fd(50)
